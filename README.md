@@ -11,6 +11,3 @@ The project is organized as follows:
 - `style.css`: CSS file containing the overall style designs used across the blog site.
 
 ---
-
-Feel free to customize the README according to your needs, providing additional information about the project or instructions for installation and usage.
-
