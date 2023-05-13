@@ -10,12 +10,7 @@ The project is organized as follows:
 - `forms.css`: CSS file with the necessary styles for the login and registration screens.
 - `style.css`: CSS file containing the overall style designs used across the blog site.
 
-Feel free to customize the README according to your needs, providing additional information about the project or instructions for installation and usage.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-You can further modify the README to include more details about the project, its features, and any other relevant information.
+Feel free to customize the README according to your needs, providing additional information about the project or instructions for installation and usage.
+
